@@ -1,4 +1,4 @@
-# JavaApp with db on netbeans
+# JavaApp with db in netbeans
 
 
 
